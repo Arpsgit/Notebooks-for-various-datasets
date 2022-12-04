@@ -5,3 +5,5 @@
 <br>2. I fetched and prepared a dataset through API and made five years dataset of daily weather report of Kolkata, from 2017 to 2021.
 
 <br>3. I performed feature selection on mnist dataset using Genetic Algorithm and compared Simple Genetic Algorithm with Compact Genetic Algorithm.
+
+<br>4. In that Tensors_with_pytorch file I've done basic tensors operations with pytorch.

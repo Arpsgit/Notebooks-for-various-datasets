@@ -7,3 +7,5 @@
 <br>3. I performed feature selection on mnist dataset using Genetic Algorithm and compared Simple Genetic Algorithm with Compact Genetic Algorithm.
 
 <br>4. In that Tensors_with_pytorch file I've done basic tensors operations with pytorch.
+
+<br>5. In ANN_MNIST notebook I've build an Artificial Neural Network model using Tensorflow Keras on mnist data set of digit classification.
